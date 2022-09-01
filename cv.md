@@ -1,4 +1,4 @@
-##Curriculum vitae
+## Curriculum vitae
 
 
 ## Elena Pupysheva
@@ -7,8 +7,8 @@
   - Russia, Saint Petersburg
   - **phone:**    +7-NUM-ERROR!!
   - **mail :**    elena.pupysheva1@gmail.com
-  - **telegram:** [oldviz](https://t.me/Alonsonya)
-  - **github:**   [oldviz](https://github.com/ElenaPupysheva)
+  - **telegram:** [Alonsonya](https://t.me/Alonsonya)
+  - **github:**   [ElenaPupysheva](https://github.com/ElenaPupysheva)
 
 ## Purpose:
   -To get new skills
