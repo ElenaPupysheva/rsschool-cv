@@ -11,8 +11,8 @@
   - **github:**   [ElenaPupysheva](https://github.com/ElenaPupysheva)
 
 ## Purpose:
-  -To get new skills
-  -Become a solid junior
+  - To get new skills
+  - Become a solid junior
 
 ## Skills:
   - HTML
@@ -37,7 +37,7 @@ function explode(s) {
   - [codeJam](https://elenapupysheva-eldritch-codejam.netlify.app/)
 
 ## Education:
-  - 2021-2025 Saint Petersburg Mining University, phD Student.
+  - 2021-2025 Saint Petersburg Mining University/ phD Student.
   - 2020-2021 LUT, Finland/ Master of Science.
   
 ## English:
